@@ -1,0 +1,49 @@
+/* Bluetooth Quick Manager - Stylesheet */
+
+/* Subtitle menu items (section headers) */
+.popup-subtitle-menu-item {
+    font-weight: bold;
+    font-size: 0.9em;
+    color: #888;
+    padding-top: 8px;
+    padding-bottom: 4px;
+}
+
+/* Available devices scroll view */
+.available-devices-scroll {
+    max-height: 300px;
+    margin: 0;
+    padding: 0;
+}
+
+/* Device items - fix left alignment */
+.popup-menu-item {
+    padding: 6px 0 6px 0; /* Remove left/right padding */
+}
+
+/* Pair button styling */
+.button {
+    padding: 4px 12px;
+    font-size: 0.9em;
+    border-radius: 4px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.button:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}
+
+.button:active {
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+/* Reload button */
+.reload-button {
+    background: transparent;
+    border: none;
+}
+
+.reload-button:hover {
+    background: rgba(255, 255, 255, 0.1);
+}
