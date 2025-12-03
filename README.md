@@ -201,7 +201,7 @@ gnome-extensions enable quick-bluetooth@s4ltf1sh.local
 
 ## Debug Tools
 
-Extension includes a debug script `debug-realtime.sh` to check:
+Extension includes a debug script `debug.sh` to check:
 
 - BlueZ service status
 - D-Bus connectivity
@@ -210,6 +210,13 @@ Extension includes a debug script `debug-realtime.sh` to check:
 
 Run:
 
+```bash
+./debug.sh
+```
+
+For checking log:
+
+Run:
 ```bash
 ./debug-realtime.sh
 ```
