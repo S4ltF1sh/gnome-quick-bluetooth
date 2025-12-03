@@ -1,6 +1,6 @@
 # Quick Bluetooth - GNOME Shell Extension
 
-Are you annoyed by having to go through too many steps to connect to paired devices via bluetooth? Try this
+Are you annoyed by having to go through too many steps to connect to paired devices via bluetooth on ubuntu? Try this
 
 ## Features
 
@@ -20,7 +20,7 @@ Are you annoyed by having to go through too many steps to connect to paired devi
 - Ubuntu 22.04+ or any distro running GNOME Shell 42+
 - BlueZ (pre-installed on Ubuntu)
 
-## Installation
+## Installation (Ubuntu)
 
 ### Clone project
 ```bash
